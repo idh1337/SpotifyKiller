@@ -1,0 +1,2 @@
+# SpotifyKiller
+Kills spotify
